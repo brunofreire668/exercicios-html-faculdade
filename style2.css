@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    width: 500px;
+    height: 500px;
+    padding: 30;
+    border: black solid 10px;
+    font-size: 70px;
+    color: aliceblue;
+    background-color: brown;
+}
+
+h2{
+
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    background: blac;
+    color: white;
+    padding: 10px 30px;
+}
+
+a:houver {
+    background-color: red;
+}
